@@ -1,5 +1,5 @@
 //? Dia de la Semana (Switch)
-let diaSemana = 9;
+let diaSemana = 3;
 switch (diaSemana) {
   case 1: //* Día semana == 1
     console.log("Lunes");
